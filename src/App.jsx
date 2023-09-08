@@ -10,7 +10,7 @@ import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
-import Portfolio from "./Components/Portfolio";
+import Portfolio from "./Components/Projects";
 
 import "./styles.css";
 
@@ -24,15 +24,13 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Sahil",
+  title: "Software Developer & Content Creator",
+  email: "sahils17sam@gmail.com",
+  gitHub: "sahilsharma17",
+  instagram: "sahilshyam17",
+  linkedIn: "sahil-software-developer",
+  twitter: "SahilSh31984303",
 };
 
 const primaryColor = "#4E567E";
